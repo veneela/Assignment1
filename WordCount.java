@@ -19,6 +19,7 @@ public class WordCount {
 		sc.close();
 		for(Map.Entry<String, Integer> entry:map.entrySet()) {
 			System.out.println(entry);
+			System.out.println("chinna")
 		}
   }
 }
